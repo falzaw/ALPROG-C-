@@ -14,5 +14,7 @@ int main(){
 		cout<<"\n";
 	}else if (v>=200){
 		cout<<"Balok besar";
-	}cout<<v<<"cm^3";
+		cout<<"\n";
+	}
+	cout<<v<<"cm^3";
 }
