@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
 	int n;
+	
 	cout<<"Angka yang ditentukan adalah : ";
 	cin>>n;
 	
