@@ -6,10 +6,10 @@ int main(){
 	int t=7;
 	int v=p*l*t;
 	
-	if(volume<=100){
+	if(v<=100){
 		cout<<"balok kecil";
 		cout<<"\n";
-	}else if (volume>100 && volume<=200){
+	}else if (v>100 && v<=200){
 		cout<<"balok sedang";
 		cout<<"\n";
 	}else if (v>=200){
